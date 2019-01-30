@@ -23,9 +23,9 @@ function logShout(string) {
 logShout("hello")
 
 function sayHiToGrandma(string) {
-  console.log("I can't hear you!")
+  if.toLowerCase console.log("I can't hear you!")
 }
 
 sayHiToGrandma("hello")
-sayHiToGrandma("hello")
+sayHiToGrandma("HELLO")
 sayHiToGrandma("hello")
