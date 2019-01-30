@@ -23,5 +23,5 @@ function logShout(string) {
 logShout("hello")
 
 function sayHiToGrandma(string) {
-  return 
+  console.log("I can't hear you!")
 }
