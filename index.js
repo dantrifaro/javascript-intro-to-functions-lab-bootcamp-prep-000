@@ -15,3 +15,4 @@ function logWhisper(string) {
 }
 
 logWhisper("HELLO")
+
