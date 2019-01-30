@@ -23,9 +23,11 @@ function logShout(string) {
 logShout("hello")
 
 function sayHiToGrandma(string) {
-  if.toLowerCase console.log("I can't hear you!")
+  if (string === string.toLowerCase())) return("I can't hear you!")
+  else if (string === string.toUpperCase()) return ("YES INDEED!")
+  else if (string === "I love you, Grandma.")
 }
 
 sayHiToGrandma("hello")
 sayHiToGrandma("HELLO")
-sayHiToGrandma("hello")
+sayHiToGrandma("I love you, Grandma.")
