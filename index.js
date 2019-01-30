@@ -26,4 +26,4 @@ function sayHiToGrandma(string) {
   console.log("I can't hear you!")
 }
 
-sayHiToGrandma
+sayHiToGrandma("hello")
